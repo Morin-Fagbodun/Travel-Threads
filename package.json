@@ -1,0 +1,25 @@
+{
+  "name": "travel-threads",
+  "version": "1.0.0",
+  "description": "Travel planning is hard and tedious. It is hard to determine where to go and what to do. It's fun to plan out a trip but making that trip a reality is often dificult and no where nar as fun. Seperatly people figure out: \r - Where to eat \r - What to do \r - What to pack \r - What to wear \r - How to get from one place to another",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morin-Fagbodun/Travel-Threads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morin-Fagbodun/Travel-Threads/issues"
+  },
+  "homepage": "https://github.com/Morin-Fagbodun/Travel-Threads#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}
